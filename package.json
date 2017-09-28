@@ -1,8 +1,8 @@
 {
   "name": "dreamer-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "A dreamy blue and red syntax theme.",
+  "version": "0.0.0",
+  "description": "A dreamy blue and red syntax theme for atom.",
   "keywords": [
     "syntax",
     "theme",
