@@ -2,4 +2,4 @@
 
 A dreamy blue and red syntax theme for atom.
 
-![Theme screenshot](screenshot.png)
+![Screenshot](https://github.com/jakobjohansson/dreamer-syntax/raw/master/screenshot.png)
